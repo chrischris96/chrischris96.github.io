@@ -5,8 +5,9 @@ author: "Christian Plitz"
 permalink: /about/
 ---
 
-Machine learning enthusiast and incoming post grad electrical engineering student at the Technical University of Munich. Experience in: 
+Machine learning enthusiast and incoming post grad electrical engineering student at the Technical University of Munich. 
 
+Experience in:
 
 
 • Modeling Nanoelectronic Devices
@@ -14,7 +15,6 @@ Machine learning enthusiast and incoming post grad electrical engineering studen
 • Experience in RF Engineering (Transmission Line Simulations)
 
 • Familiar with Different Numerical Treatments of Partial Differential Equations (PDEs)
-
 
 
 Broad field of knowledge from university courses (C) and projects (P)
@@ -28,8 +28,7 @@ Broad field of knowledge from university courses (C) and projects (P)
 • (P)Thesis about Improving Mode Locking in Terahertz Quantum Cascade Lasers 
 
 
-
-Extracurricular
+Extracurricular:
 
 • Mentor for exchange students at TU Munich
 
