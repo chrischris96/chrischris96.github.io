@@ -5,7 +5,7 @@ author: "Christian Plitz"
 permalink: /about/
 ---
 
-![Placeholder image](blacknwhite.jpg)
+![useful image]({{ site.url }}/assets/blacknwhite.jpg)
 
 Machine learning enthusiast and incoming post grad electrical engineering student at the Technical University of Munich. 
 
