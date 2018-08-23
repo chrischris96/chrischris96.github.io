@@ -1,13 +1,13 @@
 # Site settings
-title:          Tale
+title:          A Year Of Coding
 description:    "Minimal Jekyll theme for storytellers"
 url:            "https://chrischris96.github.io/"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Christian Plitz
+  url:          https://chrischris96.github.io/
+  email:        christian.plitz@tum.com
 
 # Build settings
 markdown:       kramdown
