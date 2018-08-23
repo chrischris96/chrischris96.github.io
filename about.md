@@ -37,9 +37,8 @@ Machine learning enthusiast and incoming post grad electrical engineering studen
 
 #### Contact
 
-{% highlight markdown %}
-GitHub [GitHub](https://github.com/chrischris96/)
-LinkedIn [LinkedIn](https://www.linkedin.com/in/christian-plitz-303180101/)
-Twitter [Twitter](https://twitter.com/ChristianPlitz)
-{% endhighlight %}
+[GitHub](https://github.com/chrischris96/)
+[LinkedIn](https://www.linkedin.com/in/christian-plitz-303180101/)
+[Twitter](https://twitter.com/ChristianPlitz)
+
 
