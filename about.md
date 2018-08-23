@@ -21,7 +21,7 @@ Broad field of knowledge from university courses (C) and projects (P)
 
 • (P) Programming a game (Space Invaders) with VHDL
 
-• (P) Programming working Machine Learning Algorithm
+• (P) Programming working Machine Learning Algorithms
 
 • (P)Thesis about Improving Mode Locking in Terahertz Quantum Cascade Lasers 
 
