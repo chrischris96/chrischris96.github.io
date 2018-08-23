@@ -8,13 +8,11 @@ permalink: /about/
 Machine learning enthusiast and incoming post grad electrical engineering student at the Technical University of Munich. Experience in: 
 
 
-
 • Modeling Nanoelectronic Devices
 
 • Experience in RF Engineering (Transmission Line Simulations)
 
 • Familiar with Different Numerical Treatments of Partial Differential Equations (PDEs)
-
 
 
 Broad field of knowledge from university courses (C) and projects (P)
@@ -26,7 +24,6 @@ Broad field of knowledge from university courses (C) and projects (P)
 • (P) Programming working Machine Learning Algorithm
 
 • (P)Thesis about Improving Mode Locking in Terahertz Quantum Cascade Lasers 
-
 
 
 Extracurricular
