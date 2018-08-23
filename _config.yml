@@ -1,13 +1,12 @@
 # Site settings
 title:          A Year Of Coding
-description:    "Minimal Jekyll theme for storytellers"
 url:            "https://chrischris96.github.io/"
 
 # Author
 author:
   name:         Christian Plitz
   url:          https://chrischris96.github.io/
-  email:        christian.plitz@tum.com
+  email:        christian.plitz@tum.de
 
 # Build settings
 markdown:       kramdown
@@ -25,4 +24,4 @@ plugins:
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       5
+paginate:       50
