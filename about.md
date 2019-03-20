@@ -7,26 +7,7 @@ permalink: /about/
 
 ![useful image]({{ site.url }}/assets/blacknwhite.jpg)
 
-Machine learning enthusiast and incoming post grad electrical engineering student at the Technical University of Munich. 
-
-#### Experience in: 
-
-* Programming machine learning algorithms with Python (seaborn, numpy, pandas, matplotlib, scikit-learn)
-
-* Modeling Nanoelectronic Devices (Transmission Line Simulations)
-
-* Familiar with Different Numerical Treatments of Partial Differential Equations (PDEs)
-
-
-#### Broad field of knowledge from university courses (C) and projects (P)
-
-* (C) Pure Maths 
-
-* (P) Programming a game (Space Invaders) with VHDL
-
-* (P) Programming working Machine Learning Algorithms
-
-* (P)Thesis about Improving Mode Locking in Terahertz Quantum Cascade Lasers 
+Electrical engineering student at the Technical University of Munich. 
 
 
 #### Extracurricular
